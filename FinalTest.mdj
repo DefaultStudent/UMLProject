@@ -493,7 +493,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+B_id: char",
+											"text": "-B_id: char",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -522,7 +522,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+Bname: char",
+											"text": "-Bname: char",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -551,7 +551,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+price: double",
+											"text": "-price: double",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -580,7 +580,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+type: char",
+											"text": "-type: char",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2877,7 +2877,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+uid: int",
+											"text": "-uid: int",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -2906,7 +2906,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+upwd: char",
+											"text": "-upwd: char",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -3343,7 +3343,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+s_no: char",
+											"text": "-s_no: char",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -3372,7 +3372,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+sname: char",
+											"text": "-sname: char",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -3401,7 +3401,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+s_age: Integer",
+											"text": "-s_age: Integer",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -3780,7 +3780,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+Tname: char",
+											"text": "-Tname: char",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -3809,7 +3809,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+T_no: Integer",
+											"text": "-T_no: Integer",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -16400,7 +16400,7 @@
 								"$ref": "AAAAAAFfI7zPPCNRhtE="
 							},
 							"name": "uid",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "int",
@@ -16418,7 +16418,7 @@
 								"$ref": "AAAAAAFfI7zPPCNRhtE="
 							},
 							"name": "upwd",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "char",
@@ -18174,7 +18174,7 @@
 								"$ref": "AAAAAAFfI9BgvidIU/0="
 							},
 							"name": "s_no",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "char",
@@ -18192,7 +18192,7 @@
 								"$ref": "AAAAAAFfI9BgvidIU/0="
 							},
 							"name": "sname",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "char",
@@ -18210,7 +18210,7 @@
 								"$ref": "AAAAAAFfI9BgvidIU/0="
 							},
 							"name": "s_age",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "Integer",
@@ -18320,7 +18320,7 @@
 								"$ref": "AAAAAAFfI9Iwkyf3W2I="
 							},
 							"name": "Tname",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "char",
@@ -18338,7 +18338,7 @@
 								"$ref": "AAAAAAFfI9Iwkyf3W2I="
 							},
 							"name": "T_no",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "Integer",
@@ -18401,7 +18401,7 @@
 								"$ref": "AAAAAAFfI9lBVSm3h+U="
 							},
 							"name": "B_id",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "char",
@@ -18419,7 +18419,7 @@
 								"$ref": "AAAAAAFfI9lBVSm3h+U="
 							},
 							"name": "Bname",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "char",
@@ -18437,7 +18437,7 @@
 								"$ref": "AAAAAAFfI9lBVSm3h+U="
 							},
 							"name": "price",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "double",
@@ -18455,7 +18455,7 @@
 								"$ref": "AAAAAAFfI9lBVSm3h+U="
 							},
 							"name": "type",
-							"visibility": "public",
+							"visibility": "private",
 							"isStatic": false,
 							"isLeaf": false,
 							"type": "char",
@@ -46553,6 +46553,7 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
+							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -46570,6 +46571,7 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
+							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -46587,6 +46589,7 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
+							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -46604,6 +46607,7 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
+							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -46621,6 +46625,7 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
+							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
